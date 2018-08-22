@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercicio02</string>
+    <string name="txtResultado">Resultado:</string>
+    <string name="editN1">Primeiro número</string>
+    <string name="editN2">Segundo número</string>
+    <string name="btnSomar">Somar</string>
+    <string name="btnSubtrair">Subtrair</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="btnDividir">Divir</string>
+    <string name="btnDividir2">Dividir</string>
+</resources>
